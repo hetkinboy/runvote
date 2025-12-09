@@ -1,0 +1,51 @@
+2025-12-09T11:17:48.260134 - Added 1 tokens
+2025-12-09T11:18:00.123946 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:18:03.436804 - RUN NOW start tokens_count=1
+2025-12-09T11:18:04.076683 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:18:04.083403 - RUN NOW end
+2025-12-09T11:18:08.343549 - Scheduler started (02:00 daily).
+2025-12-09T11:18:29.011680 - Added 0 tokens
+2025-12-09T11:21:45.541590 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:21:47.417225 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:21:48.935352 - RUN NOW start tokens_count=2
+2025-12-09T11:21:49.516138 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:21:50.117263 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:21:50.125482 - RUN NOW end
+2025-12-09T11:22:06.206609 - Added 1 tokens
+2025-12-09T11:22:20.707947 - Added 1 tokens
+2025-12-09T11:22:40.749795 - token[:8]=f... EXCEPTION: HTTPSConnectionPool(host='eventista-platform-api.1vote.vn', port=443): Read timed out. (read timeout=30)
+2025-12-09T11:23:47.808296 - UI: Deleted token at index 2
+2025-12-09T11:23:49.963635 - UI: Added 1 tokens
+2025-12-09T11:23:51.215235 - UI: Deleted token at index 2
+2025-12-09T11:23:52.327902 - RUN ALL start tokens_count=2
+2025-12-09T11:23:52.998000 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:23:53.512855 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:23:53.513915 - RUN ALL end
+2025-12-09T11:23:58.695795 - UI: Scheduler turned ON
+(daily at 02:00 server time)
+2025-12-09T11:24:15.512217 - Scheduler thread started (daily at 02:00 server time)
+2025-12-09T11:30:13.260415 - Scheduler thread started, scheduled daily at 02:00 (server local time).
+2025-12-09T11:30:13.260922 - UI: Scheduler auto-started on app start
+2025-12-09T11:30:15.452416 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:30:18.254828 - RUN ALL start tokens_count=2
+2025-12-09T11:30:18.876605 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:30:19.476396 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:30:19.478243 - RUN ALL end
+2025-12-09T11:34:02.300840 - UI: Added 2 tokens
+2025-12-09T11:34:04.146155 - Scheduler thread started, scheduled daily at 02:00 (server local time).
+2025-12-09T11:34:05.808083 - UI: Deleted token index 2
+2025-12-09T11:34:06.463625 - UI: Deleted token index 2
+2025-12-09T11:34:09.612158 - Scheduler thread started, scheduled daily at 02:00 (server local time).
+2025-12-09T11:34:10.540440 - UI: Added 1 tokens
+2025-12-09T11:34:45.094090 - Scheduler thread started, scheduled daily at 02:00 (server local time).
+2025-12-09T11:34:45.096512 - UI: Scheduler auto-started on app start
+2025-12-09T11:34:46.983369 - UI: Deleted token index 2
+2025-12-09T11:34:48.723904 - Scheduler thread started, scheduled daily at 02:00 (server local time).
+2025-12-09T11:34:48.725766 - UI: Scheduler auto-started on app start
+2025-12-09T11:35:21.036387 - UI: Added 2 tokens
+2025-12-09T11:35:24.919780 - UI: Deleted token index 2
+2025-12-09T11:35:26.031461 - UI: Deleted token index 2
+2025-12-09T11:35:29.279799 - RUN ALL start tokens_count=2
+2025-12-09T11:35:29.894339 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:35:30.392494 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
+2025-12-09T11:35:30.393693 - RUN ALL end
