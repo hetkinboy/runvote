@@ -49,3 +49,5 @@
 2025-12-09T11:35:29.894339 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
 2025-12-09T11:35:30.392494 - token[:8]=eyJhbGci... status=200 body={"errorCode":1080001,"message":"Đã hết lượt bình chọn miễn phí","data":{}}
 2025-12-09T11:35:30.393693 - RUN ALL end
+2025-12-09T11:36:34.921021 - Scheduler thread started, scheduled daily at 02:00 (server local time).
+2025-12-09T11:37:35.251608 - Scheduler thread started, scheduled daily at 02:00 (server local time).

@@ -22,6 +22,27 @@ API_URL = "https://eventista-platform-api.1vote.vn/v2/web/tenant/nFkFqZ/event/EV
 # -------------------------------------------
 
 st.set_page_config(page_title="Auto Voting (always-on scheduler)", layout="centered")
+st.markdown("""
+### 🔐 HƯỚNG DẪN LẤY TOKEN
+
+**Bước 1:** Đăng nhập tài khoản vote tại  
+👉 https://giaithuongngoisaoxanh.1vote.vn/
+
+**Bước 2:** Sau khi đăng nhập xong, mở link sau:  
+👉 https://giaithuongngoisaoxanh.1vote.vn/api/auth/session
+
+**Bước 3:** Tại trang JSON hiện ra, hãy copy giá trị **accessToken**, bắt đầu bằng `ey...`
+
+**Ví dụ JSON:**
+```json
+{
+  "user": {
+    "email": "example@gmail.com",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+  },
+  "expires": "2026-01-08T04:31:55.654Z"
+}
+""")
 
 # Ensure schedule package
 try:
